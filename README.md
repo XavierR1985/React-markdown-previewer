@@ -1,5 +1,3 @@
-# React-markdown-previewer
+# freeCodeCamp Projects
 
-Technologies: React and JSX.
-
-With this project, we are able to type GitHub-flavored Markdown into a text area. We also can see a preview of the output of our markdown that is updated as we type.
+This repository contains all my freeCodeCamp projects divided in 3 folders: Front-end projects, Data Visualization projects and Back-end projects.
