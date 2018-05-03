@@ -40,3 +40,21 @@ This repository contains all my freeCodeCamp projects divided in 3 folders: Fron
 - [ ] Visualize Data with a Heat Map
 - [ ] Show National Contiguity with a Force Directed Graph
 - [ ] Map Data Across the Globe 
+
+## Back End Development Certification
+
+### API Projects 
+
+- [ ] Timestamp Microservice 
+- [ ] Request Header Parser Microservice
+- [ ] URL Shortener Microservice 
+- [ ] Image Search Abstraction Layer 
+- [ ] File Metadata Microservice
+
+### Dynamic Web Application Projects 
+
+- [ ] Voting App
+- [ ] Nightlife Coordination App 
+- [ ] Chart the Stock Market 
+- [ ] Manage a Book Trading Club 
+- [ ] Pinterest Clone 
