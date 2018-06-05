@@ -1,6 +1,6 @@
 # freeCodeCamp Projects
 
-This repository contains all my freeCodeCamp projects divided in six folders:
+This repository contains all my freeCodeCamp projects divided into six folders:
 
 * Responsive Web Design Projects
 * Javascript Algorithms and data structures projects
