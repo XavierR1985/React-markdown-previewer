@@ -2,12 +2,12 @@
 
 This repository contains all my freeCodeCamp projects divided in six folders:
 
-..* Responsive Web Design Projects
-..* Javascript Algorithms and data structures projects
-..* Front-End librairies projects
-..* Data Visualization projects
-..* APIs and microservices projects 
-.. *Information security and quality assurance projects
+* Responsive Web Design Projects
+* Javascript Algorithms and data structures projects
+* Front-End librairies projects
+* Data Visualization projects
+* APIs and microservices projects 
+* Information security and quality assurance projects
 
 
 
