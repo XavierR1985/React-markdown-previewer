@@ -1,60 +1,60 @@
 # freeCodeCamp Projects
 
-This repository contains all my freeCodeCamp projects divided in 3 folders: Front-end projects, Data Visualization projects and Back-end projects.
+This repository contains all my freeCodeCamp projects divided in six folders:
 
-## Front End Development Certification 
+..* Responsive Web Design Projects
+..* Javascript Algorithms and data structures projects
+..* Front-End librairies projects
+..* Data Visualization projects
+..* APIs and microservices projects 
+.. *Information security and quality assurance projects
 
-### Basic Front End Development Projects
+
+
+### Responsive Web Design Projects
 
 - [ ] Tribute Page
+- [ ] Survey Form
+- [ ] Product Landing Page
+- [ ] Technical Documentation Page
 - [ ] Personal Portfolio Webpage
 
-### Intermediate Front End Development Projects 
+### Javascript Algorithms and data structures projects
+
+- [ ] Palindrome Checker
+- [ ] Roman Numeral Converter
+- [ ] Caesars Cipher
+- [ ] Telephone Number Validator
+- [ ] Cash Register
+
+### Front-End librairies projects 
 
 - [ ] Random Quote Machine
-- [ ] Local Weather App
-- [ ] Wikipedia Viewer
-- [ ] Twitch.tv JSON API 
-
-### Advanced Front End Development Projects 
-
+- [ ] A Markdown Previewer
+- [ ] Drum Machine
 - [ ] Javascript Calculator
 - [ ] Pomodoro Clock
-- [ ] Tic Tac Toe Game 
-- [ ] Simon Game 
-
-## Data Visualization Certification 
-
-### React Projects
-
-- [ ] Markdown Previewer 
-- [ ] Camper Leaderboard
-- [ ] Recipe Box
-- [ ] Game of Life
-- [ ] Roguelike Dungeon Crawler Game 
 
 ### Data Visualization Projects
 
 - [ ] Visualize Data with a Bar Chart 
 - [ ] Visualize Data with a Scatterplot Graph
 - [ ] Visualize Data with a Heat Map
-- [ ] Show National Contiguity with a Force Directed Graph
-- [ ] Map Data Across the Globe 
+- [ ] Visualize Data with a Chloropheth Map
+- [ ] Map Data with a Treemap Diagram 
 
-## Back End Development Certification
-
-### API Projects 
+### APIs and microservices projects 
 
 - [ ] Timestamp Microservice 
 - [ ] Request Header Parser Microservice
 - [ ] URL Shortener Microservice 
-- [ ] Image Search Abstraction Layer 
+- [ ] Exercise Tracker
 - [ ] File Metadata Microservice
 
-### Dynamic Web Application Projects 
+### Information security and quality assurance projects
 
-- [ ] Voting App
-- [ ] Nightlife Coordination App 
-- [ ] Chart the Stock Market 
-- [ ] Manage a Book Trading Club 
-- [ ] Pinterest Clone 
+- [ ] Metric-imperial Converter
+- [ ] Issue Tracker
+- [ ] Personal Library
+- [ ] Stock Price Checker
+- [ ] Anonymous Message Board
