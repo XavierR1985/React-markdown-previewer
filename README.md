@@ -2,7 +2,7 @@
 
 This repository contains all my freeCodeCamp projects divided into six folders:
 
-* Responsive Web Design Projects
+* Responsive Web Design projects
 * Javascript Algorithms and data structures projects
 * Front-End librairies projects
 * Data Visualization projects
